@@ -3,7 +3,7 @@ int main()
 {
     float l,b,h,surface_area,volume;
     printf("Enter a length:");
-    scanf("%f" ,&1);
+    scanf("%f",&l);
 
     printf("Enter a breath:");
     scanf("%f",&b);
